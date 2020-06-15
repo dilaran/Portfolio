@@ -1,9 +1,10 @@
 body {
-    background-color: rgb(231, 236, 238);
+    background-color: #ffdab9;
   }
   
 h1 {
-    color: rgba(13, 13, 24, 0.815);
+    /* color: rgba(13, 13, 24, 0.815); */
+    color:#001440;
     margin-left: 20px;
   }
 
